@@ -1,2 +1,2 @@
 # ProjectWeb-Wisata-Banyu_Kuning hosting
-wisata-banyu-kuning-bjn.domcloud.io 
+http://wisata-banyu-kuning-bjn.domcloud.io/
